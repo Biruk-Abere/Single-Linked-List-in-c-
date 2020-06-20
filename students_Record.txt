@@ -1,0 +1,5 @@
+ID 		Name 			 Age			 Roll 			 Year 			 GPA 
+1012		ABEL			21			2			2			3.2
+1011		BIRUK			20			1			2			3.4
+
+THE TOTAL NUMBER OF STUDENTS IS : 2

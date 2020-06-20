@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579837082 source:d:\computer science curriculum\second year\first semister\data structure and algorithm\algorithm - lab\my-lab\myfinalalgo-project\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<windows.h>
+
